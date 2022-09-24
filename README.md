@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pornomen
+- 👋 Hi, I’m @Rigel
 - 👀 I’m interested in:Information security
 - 🌱 I’m currently learning:Astrume IT Akademy
 - 💞️ I’m looking to collaborate on ...
