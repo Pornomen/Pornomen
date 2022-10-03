@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rigel
 - 👀 I’m interested in:Information security
 - 🌱 I’m currently learning:Astrume IT Akademy
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...doc
 - 📫 How to reach me:ulugbekabdusattarov3@gmail.com
 
 <!---
